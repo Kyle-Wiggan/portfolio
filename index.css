@@ -15,11 +15,14 @@ a {
 
 /* css for our navbar and navbar-item classes */
 .navbar {
-    background-color: rgb(14, 14, 69);
+    background-color: rgb(6, 6, 136);
     padding: 30px;
 }
 
 .navbar-item {
     padding: 20px;
-    background-color: rgb(34, 34, 91);
+    background-color: rgb(18, 18, 150);
+}
+.banner-image{
+    width: 100px;
 }
