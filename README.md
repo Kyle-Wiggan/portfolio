@@ -1,4 +1,4 @@
-# Hi! Welcome to your portfolio!
+[Title](about.html)# Hi! Welcome to your portfolio!
 
 This is the repository (the place where your code is saved) for your website portfolio! We'll be working on this on every Tech Tuesday workshop until the end of the semester, when we end up hosting it online for free!
 
